@@ -20,13 +20,17 @@ The project utilizes Mediapipe Hands, a tool developed by Google, for extracting
 
 ### Models and Results
 
-![Models and Results](path/to/models_and_results_image.png)
+![Models and Results]
+(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\MODELS\SVM\confusion_matrix.png)
+(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\MODELS\GRU\average_precision.png)
 
 Several machine learning models were evaluated, with GRU and SVM achieving an accuracy rate above 99%.
 
 ### Real-time Output
 
-![Real-time Output](path/to/real_time_output_image.png)
+![Real-time Outputs]
+(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\ಕ.png)
+(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\ಫ.png)
 
 ## Conclusion
 
