@@ -19,7 +19,6 @@ The project utilizes Mediapipe Hands, a tool developed by Google, for extracting
 
 ### Models and Results
 
-![Models and Results]
 ![confusion_matrix](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/b4e9337e-6f43-4c1c-8048-695a0d45db5f)
 ![average_precision](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/67267df5-ab5f-4a25-8d18-0d153535e09c)
 
@@ -28,7 +27,6 @@ Several machine learning models were evaluated, with GRU and SVM achieving an ac
 
 ### Real-time Output
 
-![Real-time Outputs]
 ![ಕ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/ab730ba1-3b67-48e0-88ce-d2a339f40657)
 ![ಫ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/2f7c9a2d-594b-4a7c-8e44-5e48d5153c9b)
 
