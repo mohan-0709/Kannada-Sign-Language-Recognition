@@ -11,8 +11,7 @@ Sign language serves as a means of communication for speech and hearing-impaired
 The curated dataset consists of 3,400 static images depicting 34 distinct signs of Kannada Vyanjanagalu, each with 100 images. These signs involve single-hand gestures captured at 640 x 480 pixels resolution. The dataset's validation was confirmed by the Association of People with Disabilities(APD) in Bengaluru.
 
 ## System Architecture
-
-![System Architecture](path/to/system_architecture_image.png)
+![workFlow](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/3c9943d8-1f8e-416b-9b57-89541419410c)
 
 ### Feature Extractor
 
@@ -21,16 +20,17 @@ The project utilizes Mediapipe Hands, a tool developed by Google, for extracting
 ### Models and Results
 
 ![Models and Results]
-(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\MODELS\SVM\confusion_matrix.png)
-(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\MODELS\GRU\average_precision.png)
+![confusion_matrix](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/b4e9337e-6f43-4c1c-8048-695a0d45db5f)
+![average_precision](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/67267df5-ab5f-4a25-8d18-0d153535e09c)
+
 
 Several machine learning models were evaluated, with GRU and SVM achieving an accuracy rate above 99%.
 
 ### Real-time Output
 
 ![Real-time Outputs]
-(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\ಕ.png)
-(D:\PES1UG20CS563\Sem 7\Capstone Phase - 2\KSL\CODE\ಫ.png)
+![ಕ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/ab730ba1-3b67-48e0-88ce-d2a339f40657)
+![ಫ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/2f7c9a2d-594b-4a7c-8e44-5e48d5153c9b)
 
 ## Conclusion
 
