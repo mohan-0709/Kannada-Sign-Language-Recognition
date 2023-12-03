@@ -30,6 +30,9 @@ Several machine learning models were evaluated, with GRU and SVM achieving an ac
 ![ಕ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/ab730ba1-3b67-48e0-88ce-d2a339f40657)
 ![ಫ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/2f7c9a2d-594b-4a7c-8e44-5e48d5153c9b)
 
+https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/dc76b050-b7f7-4d6b-97a6-89028dbf7170
+
+
 ## Conclusion
 
 The project contributed a comprehensive dataset and explored multiple machine learning models, achieving exceptional accuracy in Kannada Vyanjanagalu recognition. Notable achievements include reduced inference time, real-time capability, adaptability to lighting conditions, and robustness against occlusions. The technology demonstrates proficiency in recognizing complex signs, accommodating multiple signers, and enabling translation to the Kannada language. The implementation of real-time recognition exemplifies practical applications, laying the groundwork for robust sign language recognition technologies.
