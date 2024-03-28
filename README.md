@@ -33,6 +33,15 @@ Several machine learning models were evaluated, with GRU and SVM achieving an ac
 https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/dc76b050-b7f7-4d6b-97a6-89028dbf7170
 
 
+### How to Run
+
+1. Install Python, Mediapipe, OpenCV, tkinter and other required libraries on your system.
+2. Create a folder named `Dataset` and store all the images as shown in the `Dataset` folder in this repository.
+3. `hfe.py` is a feature extractor file. Run this file to extract all the features and store them in the `FEATURES` folder.
+4. Inside the `Models` folder, you will find various models implemented on this dataset. Run the Python file of the respective model.
+5. Run the `real_time.py` file to see the model working and identifying signs in real-time. Make sure to change the model path for your respective model in this file.
+
+
 ## Conclusion
 
 The project contributed a comprehensive dataset and explored multiple machine learning models, achieving exceptional accuracy in Kannada Vyanjanagalu recognition. Notable achievements include reduced inference time, real-time capability, adaptability to lighting conditions, and robustness against occlusions. The technology demonstrates proficiency in recognizing complex signs, accommodating multiple signers, and enabling translation to the Kannada language. The implementation of real-time recognition exemplifies practical applications, laying the groundwork for robust sign language recognition technologies.
